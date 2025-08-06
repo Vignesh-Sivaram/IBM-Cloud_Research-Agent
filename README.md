@@ -1,25 +1,25 @@
-# 📚 AI-Based Research Assistant using IBM Watsonx
+# AI-Based Research Assistant using IBM Watsonx
 
 An intelligent AI assistant designed to support academic and scientific research tasks such as literature search, paper summarization, hypothesis generation, and research report drafting. Built using IBM Watsonx Assistant and integrated with granite foundational model.
 
 ---
 
-## 🧠 Project Overview
+## Project Overview
 
 Academic researchers often spend significant time manually searching for literature, organizing references, and drafting research papers. This project aims to automate these tasks using instruction-tuned large language models (LLMs) provided by IBM Watsonx.
 
 ---
 
-## 🚀 Features
+## Features
 
-- 🔍 Semantic search of academic papers via databases
-- 🧾 Summarization of paper abstracts
-- 📖 Drafting structured research sections (Introduction, Literature Review, etc.)  
-- 🧠 Suggests hypotheses based on user queries  
+- Semantic search of academic papers via databases
+- Summarization of paper abstracts
+- Drafting structured research sections (Introduction, Literature Review, etc.)  
+- Suggests hypotheses based on user queries  
 
 ---
 
-## 🛠 System Requirements
+## System Requirements
 
 - OS: Windows 10 / macOS / Linux  
 - RAM: 8 GB (16 GB recommended)  
@@ -29,14 +29,14 @@ Academic researchers often spend significant time manually searching for literat
 
 ---
 
-## 🧰 Tools and Technologies
+## Tools and Technologies
 
 - **IBM Watsonx Assistant** - LangGraph / ReAct architecture  
 - **Granite-3-3-8b-instruct** LLM  
 
 ---
 
-## 🧑‍💻 Setup Instructions
+## Setup Instructions
 
 ### 1. Create a Watsonx Assistant
 - Go to [IBM Watsonx](https://www.ibm.com/watsonx)
