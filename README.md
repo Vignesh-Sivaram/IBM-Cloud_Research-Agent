@@ -1,6 +1,3 @@
-# IBM-Cloud_Research-Agent
-AI Research agent assisting users in academic and scientific research tasks
-
 # 📚 AI-Based Research Assistant using IBM Watsonx
 
 An intelligent AI assistant designed to support academic and scientific research tasks such as literature search, paper summarization, hypothesis generation, and research report drafting. Built using IBM Watsonx Assistant and integrated with granite foundational model.
